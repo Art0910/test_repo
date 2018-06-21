@@ -3,3 +3,4 @@ print('hello everybody!')
 Print('how are you?')
 Print("New row)
 Print('Hi, friend!')
+Привет!
