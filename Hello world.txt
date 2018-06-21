@@ -1,4 +1,4 @@
-print('hello world! :)')
+print('hello world!')
 print('hello everybody!')
 Print('how are you?')
 Print("New row)
